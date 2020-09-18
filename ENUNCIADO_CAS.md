@@ -49,4 +49,4 @@ A partir de ahora trabajaremos en local y subiremos los cambios en el repositori
         1. ejecutaremos la orden:
            - `git reset --hard <identificador_del_commit>`
         1. enviaremos los cambios a la rama master del repositorio remoto (GitHub):
-           - `git push origin HEAD: master --force`
+           - `git push origin HEAD:master --force`
